@@ -159,6 +159,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/>
                     <polyline points="22 4 12 14.01 9 11.01"/>
                 </svg>
+                <h1>Dr. Mohamed Samy wishes you success </h1>
                 <h3 class="text-xl font-bold mb-2">Your Score has been calculated!</h3>
                 <div class="p-4 bg-blue-50 rounded-lg w-full">
                     <p class="text-lg">Final Score: <span class="text-blue-600 font-bold text-2xl">${result}</span></p>
